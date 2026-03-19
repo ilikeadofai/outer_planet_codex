@@ -45,12 +45,3 @@ https://<github-username>.github.io/<repository-name>/
 2. **환경-생태계 연결성**: 같은 생물 조합도 환경 조건에 따라 결과가 달라진다는 점
 3. **교육용 시각화의 장점**: 복잡한 식보다 그래프/요약 문장으로 과학 개념을 쉽게 전달할 수 있다는 점
 
-
-## 문제 해결
-- `npm run dev`에서 `vite: not found`가 나오면 의존성이 설치되지 않은 상태입니다.
-- 아래 명령으로 다시 설치 후 실행하세요.
-
-```bash
-npm install
-npm run dev
-```
